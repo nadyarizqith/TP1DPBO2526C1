@@ -13,28 +13,51 @@ hargaTiket — harga tiket per film
 gambar — path file lokal poster film (php)
 
 STRUKTUR FILE:
+
 Main
+
 ├── CPP
+
 │   ├── Film.cpp
+
 │   └── main.cpp
+
 │
+
 ├── Python
+
 │   ├── Film.py
+
 │   └── main.py
+
 |
+
 ├── Java
+
 │   ├── Film.java
+
 │   └── Main.java
+
 │
+
 ├── PHP
+
 │   ├── film.php
+
 │   ├── fungsi.php
+
 │   ├── index.php
+
 │   ├── tambah.php
+
 │   ├── img
+
 │   │   └── image.jpg
+
 │   └── uploads
+
 │       └── *.jpg
+
 
 FLOW CODE:
  " Program ini mengelola data Film (tambah, tampil, update, hapus, cari) dan diimplementasikan dalam 4 bahasa berbeda dengan cara pakai yang sama alurnya, hanya beda tampilan (console vs web). "
