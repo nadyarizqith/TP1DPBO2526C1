@@ -4,12 +4,19 @@ dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya
 maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 DESIGN PROGRAM:
+
 Class program yang dipakai adalah Film, dengan atribut:
+
 idFilm — ID unik film
+
 judul — judul film
+
 genre — genre film
+
 durasi — durasi tayang (menit)
+
 hargaTiket — harga tiket per film
+
 gambar — path file lokal poster film (php)
 
 STRUKTUR FILE:
